@@ -1,0 +1,6 @@
+﻿{
+  "version_name": "1.0.20",
+  "version_code": 20,
+  "apk_url": "https://raw.githubusercontent.com/Hungnt-080189/MTPos_APK/main/MTPos-latest.apk",
+  "release_notes": "Bản cập nhật v1.0.20:\n- Khóa thiết bị nhận thông báo Techcombank chính xác theo Device ID.\n- Tích hợp gợi ý ghép mã sản phẩm thông minh (Fuzzy Matching).\n- Tự động ghi nhớ ánh xạ tên sản phẩm nhà cung cấp (Alias Mapping).\n- Bổ sung công cụ Gộp sản phẩm trùng lặp trong kho.\n- Tối ưu giao diện thanh điều hướng và nút Back."
+}
