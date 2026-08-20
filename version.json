@@ -1,6 +1,6 @@
 ﻿{
-  "version_name": "1.0.28",
-  "version_code": 28,
+  "version_name": "1.0.29",
+  "version_code": 29,
   "apk_url": "https://raw.githubusercontent.com/Hungnt-080189/MTPos_APK/main/MTPos-latest.apk",
-  "release_notes": "Bản cập nhật v1.0.28:\n- Chuẩn hóa bộ lọc ngày thông minh matchDate() tự động khớp 100% các định dạng ngày giờ.\n- Tiền nhập hàng NCC (nhập tay & quét OCR) tự động liên kết chuẩn xác vào Tab Chốt Sổ."
+  "release_notes": "Bản cập nhật v1.0.29:\n- Fix triệt để lỗi tên cột payment_status trong câu lệnh truy vấn phiếu nhập kho.\n- Tự động liên kết 100% tiền nhập hàng NCC (phiếu HD_260820_1914 & HD_260820_2028).\n- Tự động lấy số dư tiền mặt hôm qua từ đơn bán nếu chưa chốt sổ lần nào."
 }
