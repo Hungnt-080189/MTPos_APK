@@ -1,6 +1,6 @@
 ﻿{
-  "version_name": "1.0.21",
-  "version_code": 21,
+  "version_name": "1.0.25",
+  "version_code": 25,
   "apk_url": "https://raw.githubusercontent.com/Hungnt-080189/MTPos_APK/main/MTPos-latest.apk",
-  "release_notes": "Bản cập nhật v1.0.21:\n- Cập nhật và kích hoạt API Key Google Gemini OCR quét hóa đơn AI hoạt động 100%.\n- Tích hợp gợi ý ghép mã sản phẩm thông minh (Fuzzy Matching).\n- Tự động ghi nhớ ánh xạ tên sản phẩm nhà cung cấp (Alias Mapping).\n- Bổ sung công cụ Gộp sản phẩm trùng lặp trong kho.\n- Tối ưu giao diện Header và nút Back."
+  "release_notes": "Bản cập nhật v1.0.25:\n- Fix triệt để lỗi bàn phím bị ẩn khi gõ số lượng / đơn giá / tên sản phẩm trong Nhập Kho.\n- Tối ưu bộ điều khiển Controller ổn định 100% không giật lag khi gõ văn bản.\n- Giữ nguyên toàn bộ cấu hình Device ID máy Techcombank Reno5 và Gemini AI OCR."
 }
