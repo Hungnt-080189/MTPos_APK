@@ -1,6 +1,6 @@
-﻿{
-  "version_name": "1.0.29",
-  "version_code": 29,
+{
+  "version_name": "1.0.31",
+  "version_code": 31,
   "apk_url": "https://raw.githubusercontent.com/Hungnt-080189/MTPos_APK/main/MTPos-latest.apk",
-  "release_notes": "Bản cập nhật v1.0.29:\n- Fix triệt để lỗi tên cột payment_status trong câu lệnh truy vấn phiếu nhập kho.\n- Tự động liên kết 100% tiền nhập hàng NCC (phiếu HD_260820_1914 & HD_260820_2028).\n- Tự động lấy số dư tiền mặt hôm qua từ đơn bán nếu chưa chốt sổ lần nào."
+  "release_notes": "Bản cập nhật v1.0.31:\n- Tích hợp Tìm kiếm Giọng nói tiếng Việt (Voice Search) ở Tab Bán hàng & Tab Sản phẩm.\n- Tối ưu hóa tốc độ tải Tab Chốt Sổ nhanh gấp 10 lần (chạy song song Future.wait).\n- Bỏ icon ví ở box Tổng Tiền Vào và tự co giãn số tiền tránh nhảy dòng.\n- Bỏ tiền tố SKU khi chọn sản phẩm nhập hàng.\n- Bộ nhớ đệm (In-Memory Cache) tăng tốc toàn app."
 }
