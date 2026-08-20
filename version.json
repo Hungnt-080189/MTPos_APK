@@ -1,6 +1,6 @@
 ﻿{
-  "version_name": "1.0.26",
-  "version_code": 26,
+  "version_name": "1.0.27",
+  "version_code": 27,
   "apk_url": "https://raw.githubusercontent.com/Hungnt-080189/MTPos_APK/main/MTPos-latest.apk",
-  "release_notes": "Bản cập nhật v1.0.26:\n- Bộ lọc nghiêm ngặt: Chỉ bắt biến động số dư TIỀN VÀO (+) của duy nhất ứng dụng Techcombank.\n- Bỏ qua toàn bộ thông báo chi tiêu, tiền ra và các ngân hàng khác.\n- Khắc phục triệt để lỗi mất bàn phím khi nhập kho hàng."
+  "release_notes": "Bản cập nhật v1.0.27:\n- Sổ Bank: Tối ưu nội dung giao dịch chỉ lưu gọn tên người chuyển tiền (loại bỏ từ 'chuyen tien').\n- Chốt Sổ: Tự động liên kết 100% số liệu két hôm qua, chi tiêu quán, tiền nhập hàng và nhận chuyển khoản.\n- Chốt Sổ: Cho phép chạm vào 4 thẻ số liệu để chỉnh sửa nhanh theo ý muốn.\n- Tự động đồng bộ số liệu tức thì khi chuyển qua lại giữa các tab."
 }
